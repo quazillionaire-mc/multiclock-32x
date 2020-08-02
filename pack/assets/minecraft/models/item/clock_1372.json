@@ -1,0 +1,11 @@
+{
+	"parent": "item/clock",
+	"textures": {
+		"analog": "item/clock_analog_45",
+		"hr0": "item/clock_digit_1d",
+		"hr1": "item/clock_digit_0d",
+		"sep": "item/clock_digit_sepd",
+		"min0": "item/clock_digit_5d",
+		"min1": "item/clock_digit_2d"
+	}
+}
