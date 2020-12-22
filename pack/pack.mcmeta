@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 5,
-    "description": "A better x32 clock for the modern Minecrafter"
+    "pack_format": 6,
+    "description": "A better 32x clock for the modern Minecrafter"
   }
 }
